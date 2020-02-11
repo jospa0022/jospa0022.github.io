@@ -1,0 +1,7 @@
+.bg-secondary { 
+  background-color: #000 !important;
+}
+
+.custom-header-bg { 
+  background-image: url('../img/IMG_E2045.JPG.svg');
+}
